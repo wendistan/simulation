@@ -8,6 +8,9 @@ Simulation resources
 ## Phase-field modeling
 [FiPy](https://www.nist.gov/programs-projects/fipy) (NIST)
 
+## Python libraries
+
+[python-ternary](https://github.com/marcharper/python-ternary) for ternary plots and phase diagrams
 
 ## Textbooks
 [IOP ebooks](http://comms.iop.org/c/15Vnp6gYK8YgZAtU0BBv9ZK9TWJ) <br>
