@@ -7,6 +7,7 @@ Simulation resources
 
 ## Phase-field modeling
 [FiPy](https://www.nist.gov/programs-projects/fipy) (NIST)
+[Dendritic growth, COMSOL](https://github.com/Leibniz-IWT/comsol-dendrite)
 
 ## Python libraries
 
