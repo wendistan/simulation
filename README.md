@@ -9,6 +9,8 @@ Simulation resources
 [FiPy](https://www.nist.gov/programs-projects/fipy) (NIST) <br/>
 [Dendritic growth, COMSOL](https://github.com/Leibniz-IWT/comsol-dendrite)
 
+[Lectures on Phase-field](https://link.springer.com/book/10.1007/978-3-031-21171-3)
+
 ## Python libraries
 
 [python-ternary](https://github.com/marcharper/python-ternary) for ternary plots and phase diagrams
