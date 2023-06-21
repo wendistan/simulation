@@ -12,7 +12,7 @@ Simulation resources
 [Lectures on Phase-field](https://link.springer.com/book/10.1007/978-3-031-21171-3)
 
 ## Python libraries
-
+[h5py](https://www.h5py.org/) HDF% for Python, [documentation](https://docs.h5py.org/en/stable/)
 [python-ternary](https://github.com/marcharper/python-ternary) for ternary plots and phase diagrams
 
 ## Textbooks
